@@ -4,12 +4,10 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🎓 B.Tech CSE Student (Graduating May 2026)  
+- 🎓 B.Tech CSE Student (Graduating 2026)  
 - 💼 Aspiring **Software Development Engineer (SDE)**  
-- 🌱 Currently mastering **Full Stack Development (MERN)** & **DSA in Java**  
-- 🧠 Strong foundation in **Python, JavaScript, and Problem Solving**  
-- 💬 Ask me about **Web Development, Python, JavaScript, and DSA**  
-- 🎯 Goal: Get placed at **Google / Microsoft** as an SDE  
+- 🌱 Currently mastering **Full Stack Development (MERN)** & **DSA in Python**  
+- 🧠 Strong foundation in **Python, JavaScript, and Problem Solving**   
 - ⚡ Fun fact: I love turning complex problems into elegant solutions  
 
 ---
