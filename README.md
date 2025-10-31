@@ -8,7 +8,7 @@
 - 💼 Aspiring **Software Development Engineer (SDE)**  
 - 🌱 Currently mastering **Full Stack Development (MERN)** & **DSA in Python**  
 - 🧠 Strong foundation in **Python, JavaScript, and Problem Solving**   
-- ⚡ Fun fact: I love turning complex problems into elegant solutions  
+- ⚡ Love turning complex problems into elegant solutions  
 
 ---
 
