@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Naga Sai Kiran</h1>
-<h3 align="center">🚀 Passionate Software Developer | MERN Stack | Python | DSA | Building scalable products</h3>
+<h1 align="center">I'm Naga Sai Kiran</h1>
+<h3 align="center">Passionate Software Developer | MERN Stack | Python | DSA | Building scalable products</h3>
 
 ---
 
@@ -46,11 +46,14 @@
 ### 🌟 Featured Projects  
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🛒 **E-Commerce Platform** | Full-stack MERN app with authentication, cart, and payments | React, Node, MongoDB |
-| 📰 **Blog App** | CRUD blog website with dynamic routes | React, Express, MongoDB |
-| 🎮 **Game Hub** | Fun JS mini-games collection | HTML, CSS, JavaScript |
-
-🔗 Check out all my projects here: [![GitHub Projects](https://img.shields.io/badge/🔗%20View%20Repositories-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME?tab=repositories)
+| 🛒 **E-Commerce** | Full-stack Django app with authentication, cart, and payments | React, Django, PostgreSQL |
+          LINK :  https://icompaas.vercel.app/
+          
+| 📰 **BLOG APP** | CRUD blog website with dynamic routes | React, Express, MongoDB |
+          LINK :  https://travel-diary-saikira.vercel.app/
+          
+| 🎮 **ROADMAP-GUIDE** | Fun JS mini-games collection | React, Tailwind CSS |
+          LINK :  https://careera-lake.vercel.app/
 
 ---
 
@@ -64,23 +67,22 @@
 
 ### 🏆 Achievements
 - 🥇 Consistently building & learning every day  
-- 💡 Contributed to open-source projects  
 - 🔥 Completed multiple end-to-end full stack projects  
 
 ---
 
 ### 📫 Connect With Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/bathula-naga-sai-kiran/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/DEV-NSK" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/" target="_blank">
+  <a href="https://www.instagram.com/bathula._.nsk/?next=%2Fdev._.nest%2F" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:your_email@gmail.com">
+  <a href="mailto:bathulasaikiran2k2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
