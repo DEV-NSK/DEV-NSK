@@ -44,16 +44,11 @@
 ---
 
 ### 🌟 Featured Projects  
-| Project | Description | Tech |
+| Project | Description | Tech | Link |
 |----------|--------------|------|
-| 🛒 **E-Commerce** | Full-stack Django app with authentication, cart, and payments | React, Django, PostgreSQL |
-          LINK :  https://icompaas.vercel.app/
-          
-| 📰 **BLOG APP** | CRUD blog website with dynamic routes | React, Express, MongoDB |
-          LINK :  https://travel-diary-saikira.vercel.app/
-          
-| 🎮 **ROADMAP-GUIDE** | Fun JS mini-games collection | React, Tailwind CSS |
-          LINK :  https://careera-lake.vercel.app/
+| 🛒 **E-Commerce** | Full-stack Django app with authentication, cart, and payments | React, Django, PostgreSQL | LINK :  https://icompaas.vercel.app/ |
+| 📰 **BLOG APP** | CRUD blog website with dynamic routes | React, Express, MongoDB | LINK :  https://travel-diary-saikira.vercel.app/ |       
+| 🎮 **ROADMAP-GUIDE** | Fun JS mini-games collection | React, Tailwind CSS | LINK :  https://careera-lake.vercel.app/ |
 
 ---
 
